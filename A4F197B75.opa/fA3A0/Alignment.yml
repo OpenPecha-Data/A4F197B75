@@ -1,0 +1,31 @@
+segment_sources:
+  I9A416E33:
+    type: origin_type
+    relation: translation
+    language: en
+  IF9A49570:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0099c7e5753f4d1f8986f48ad499431d:
+    I9A416E33: e948eefb1f164bfb851b11e0dae3e0e7
+    IF9A49570: a4c724e1bc224b4c9bad9c99db2e359a
+  3ededa26659145aca1f09f7df2ed11e1:
+    I9A416E33: 46b929e35b474cb6bf174907aa6bef67
+    IF9A49570: 5c37631f9970446b96839d6c604485c9
+  314b497f8430413cbb58099aab7ddc1c:
+    I9A416E33: fad568ad19e94f548518895e4e0346b2
+    IF9A49570: bec7ed7b205d431185dd6cc77c0ce1f0
+  9efc3c0e3ee9487caebe4dc44c472be3:
+    I9A416E33: a92411bdde3d48f69c71367a4a8ac4a8
+    IF9A49570: fd333a49257d4e3abaef8aedcffae940
+  513fb20704c74bfd8317b9d21ad82319:
+    I9A416E33: d03a17f57ddb42b684c5ae7264b0037b
+    IF9A49570: 5b91a4ada53a4031b8bd93d7f030c99e
+  21ab37e6278a4eed96d47c6297943005:
+    I9A416E33: 89085f2c19544022a83c7d048fe866e2
+    IF9A49570: f0d7a10c57764cbf9f161881ed0d1d5a
+  bb2adaa75f73404da710ebf4f0c11c54:
+    I9A416E33: 443b5d6c24954bf5b12dadea9858a106
+    IF9A49570: 9ae9cd00c7db45ea9466fbb86e8afa55
